@@ -57,7 +57,7 @@ Edit
 ## 🚀 Installation
 
 ## Clone the repository
-git clone https://github.com/CodeWith-Karthick/Medifetch
+git clone https://github.com/Mithresh1608/DrugAnalysis/README.md
 cd medifetch
 
 # (Optional) Create a virtual environment
@@ -136,9 +136,9 @@ Groq – LLaMA3 Inference API
 Streamlit – Frontend Framework
 
 📫 Contact
-Created by Karthick G
-📧 Email: karthick14mm@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/11karthick/
+Created by MITHRESH B
+📧 Email: mithreshat@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/mithresh-b-4280b42a7/
 
 ⭐ Star the Repo
 If you found this project useful, please give it a ⭐ on GitHub and share it with others in the community!
